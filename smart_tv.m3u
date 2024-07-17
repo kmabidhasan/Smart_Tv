@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQk8mSIMC6yb7v9vkME-GXWN9uDcUGInGUTrRm6Eit6BQ.png" group-title="", BIJOY TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QCcKgbk/20240717-235832.jpg" group-title="", BIJOY TV HD
 http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rsm0FBn/20240717-224811.jpg" group-title="", MOHONA TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2WtKP9G/20240718-000333.jpg" group-title="", MOHONA TV HD
 http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
-#EXTINF:-1 tvg-logo="" group-title="", SOMOY TV HD
+#EXTINF:-1 tvg-logo="" group-title="https://i.ibb.co/xFdpzFg/20240718-000202.jpg", SOMOY TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85:F0
-#EXTINF:-1 tvg-logo="" group-title="", MAASRANGA TV HD
+#EXTINF:-1 tvg-logo="" group-title="https://i.ibb.co/HxqxRMT/20240718-000404.jpg", MAASRANGA TV HD
 
 #EXTINF:-1 tvg-logo="" group-title="", ANANDA TV HD
 
