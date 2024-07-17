@@ -1,88 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K5mF8x0/Zee-Bangla-HD-2023-present.png" group-title="",Zee Bangla HD
-https://bdix.proximitybd.xyz/trex.php?id=11724&e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", BIJOY TV HD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kK5bfSJ/image-search-1720522341814.png" group-title="",Nickledion
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gAUjcBFAa2UW4oGIIoFYh3c/ts
+#EXTINF:-1 tvg-logo="" group-title="", MOHONA TV HD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5Byy1n0/image-Content-94-j5fjveio-m2-1.png" group-title="",Sony Aath
-https://bdix.proximitybd.xyz/trex.php?id=11724&e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", SOMOY TV HD
 
-#EXTINF:-1 xui-id="384" tvg-id="" tvg-name="BOISHAKHAI TV HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfE6yDEAtXOda9ZZA5duejh3AeyCLeC9RlrBIyYfrXG7ZQ.png" group-title="BD | Bangla",BOISHAKHAI TV HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gM9gnEUmsXc7KNs1x1dhxA8/ts
-#EXTINF:-1 xui-id="4712" tvg-id="" tvg-name="DESH TV HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTzp5sHohLv-g5qJQBBIZOE0JyamUlUW40SduiwrfSNDw.png" group-title="BD | Bangla",DESH TV HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDTz1bt_mCQ4ZBccukX14Bs/ts
-#EXTINF:-1 xui-id="378" tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGA_XJS-Dz8JxWJaybzaYA2zICVN3WFTxiP7lpysa9JZg.png" group-title="BD | Bangla",EKUSHEY TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gItRhgf6fk702ib5HDtfS5g/ts
-#EXTINF:-1 xui-id="382" tvg-id="" tvg-name="CHANNEL 9" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dSmE2nr5l_gIQTih2BFi_zZjHO8jqSDpatdByKRAPvysw.png" group-title="BD | Bangla",CHANNEL 9
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gAdK30W5ckj9e4BaTF8wnqg/ts
-#EXTINF:-1 xui-id="389" tvg-id="" tvg-name="GAANBANGLA TV" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFgjqEuSVQzLQF40DUkK3iyqCqBBrJhd5IjfUBI-XxjSg.png" group-title="BD | Bangla",GAANBANGLA TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gERFL0BCha8Q7nkZqCvKn2w/ts
-#EXTINF:-1 xui-id="41552" tvg-id="" tvg-name="RTV MUSIC HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFnwK_r4iEO4AdJITpRCC4Nhyi9j2PJUOdi2FNRGozYsw.png" group-title="BD | Bangla",RTV MUSIC HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFUF7s4eC6akiymUT8LiSzE/ts
-#EXTINF:-1 xui-id="390" tvg-id="" tvg-name="ATN MUSIC" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JMPTOl79GodxJ-JuPO9UCmsUAtq182Pw7TXy3mAdRlcG.png" group-title="BD | Bangla",ATN MUSIC
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBHWQliDNk4V3T0w-ccLXD4/ts
-#EXTINF:-1 xui-id="16935" tvg-id="" tvg-name="MY TV HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH5REs366LC7bGeWGUs9SYswMrWkUygppW02AXspVD9pA.png" group-title="BD | Bangla",MY TV HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gE8jBQoSX7zJtrAVM-dATiQ/ts
-#EXTINF:-1 xui-id="396" tvg-id="" tvg-name="MOHONA TV" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JNLUr7lqcbUjyK6Uk-rfZ2TCdWXhreU4nf7PhVWrXbUZ.png" group-title="BD | Bangla",MOHONA TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOjIk2xo1ObGuNT4g_XqiUk/ts
-#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="BIJOY TV" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQk8mSIMC6yb7v9vkME-GXWN9uDcUGInGUTrRm6Eit6BQ.png" group-title="BD | Bangla",BIJOY TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCz_g1Rm88QbM5YilurqtQg/ts
-#EXTINF:-1 xui-id="393" tvg-id="" tvg-name="ANANDA TV" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfF4sQ9fL8gCINPu_FkRJgctbwH1B7kHf00vCUmNiXmTAw.png" group-title="BD | Bangla",ANANDA TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNR9e8M3P27IYrfKkOJe3vw/ts
-#EXTINF:-1 xui-id="394" tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHlkLdVtzCN_1NUbFGu3tqRX0qFF0mOk6HuAER4uerd7Q.png" group-title="BD | Bangla",BANGLA TV HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPb3MfhihKHUKRjvRi25CJs/ts
-#EXTINF:-1 xui-id="391" tvg-id="" tvg-name="MOVIE BANGLA" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JEPEp0VKZMBTgVSxdbJGHgltmnOMxwiJsuqDwBoCmovx.png" group-title="BD | Bangla",MOVIE BANGLA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLUAG7pt9Xd8WwrCrvzEWvA/ts
-#EXTINF:-1 xui-id="358" tvg-id="" tvg-name="BTV WORLD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHShZ6h8jB-mKQ5NvZcxn695wlfTijv1tkz7XoWSf81OA.png" group-title="BD | Bangla",BTV WORLD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnXHNayvDOukFLM78QYxgU/ts
-#EXTINF:-1 xui-id="357" tvg-id="" tvg-name="BTV HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dS18gnjF5GF73YZwqHrr-VePa657s_V_XFFaAsYD_sLcA.png" group-title="BD | Bangla",BTV HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMGT4DdXC18ExHtI-3Fj3h0/ts
-#EXTINF:-1 xui-id="359" tvg-id="" tvg-name="BTV CTG" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHr22C6bKRcogS9yk-FCyL7DwzKogIEeCwSIWnbvOyBMg.png" group-title="BD | Bangla",BTV CTG
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMByN2DbRJxcpw26f2jxcY0/ts
-#EXTINF:-1 xui-id="40628" tvg-id="" tvg-name="SANGSHAD TV" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dSewQHUfguEIq75T0HmJL5O2YFo5MQbjxRL2i611APgEA.png" group-title="BD | Bangla",SANGSHAD TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGmIhZ8rimFmSdRdOAYriWA/ts
-#EXTINF:-1 xui-id="18572" tvg-id="" tvg-name="JONMOBHUMI TV" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JCUZtiliFtjm_d0s49BV7cteB39zaCwjngwBvXTIwwLznULGdw5BwEsIsE7NX1VCGQ.jpg" group-title="BD | Bangla",JONMOBHUMI TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGhrsDoGdR_OmCBHnsUlvPk/ts
-#EXTINF:-1 xui-id="18581" tvg-id="" tvg-name="BISWA BANGLA 24" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JNwodLt1eOsjRgSTqmd-Y3gjV3M0ZY56-hWh_TAl3IDTckVy9USB_uN2ewbKIDdoHQ.jpg" group-title="BD | Bangla",BISWA BANGLA 24
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBES9uAtE_rUqG_CPyAo9f0/ts
-#EXTINF:-1 xui-id="18582" tvg-id="" tvg-name="BANGLA 24 CANADA" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JHTQCG0DMnbOvIaU8yJvGJuOO6t3Sv4x97S-EL_P5vOqxUT-LD_RzoaB0iN2xO2Mzg.png" group-title="BD | Bangla",BANGLA 24 CANADA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGMnsrCyp0QXqs6jIdVoJMg/ts
-#EXTINF:-1 xui-id="453" tvg-id="Colors Bangla HD" tvg-name="COLORS BANGLA HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGBjE5zXRN98n6b1oAUVTPvv0S0MheX1bBHXCLXp_jtKw.png" group-title="IND | Bangla",COLORS BANGLA HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPZFAYhNz2ja6MXsKWOCgB0/ts
-#EXTINF:-1 xui-id="454" tvg-id="Colors Bangla Cinema" tvg-name="COLORS BANGLA CINEMA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGBjE5zXRN98n6b1oAUVTPv2HPV9s9Obkljn4mLEid4vbpKFZCBjk6C9CLwqONpktk.png" group-title="IND | Bangla",COLORS BANGLA CINEMA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMDBUNbXWwyG2cF61ybw_Xw/ts
-#EXTINF:-1 xui-id="45086" tvg-id="" tvg-name="IN: ENTER 10 BANGLA" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JBHy7QINThBdKzeNefXjAL8yFyWTY_Pi8cD4o3HN-3TTdin0vOglN5pMxPwgO7EQZA.jpg" group-title="IND | Bangla",IN: ENTER 10 BANGLA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLyT33nldfLjP3PrsAiBi_Q/ts
-#EXTINF:-1 xui-id="2329" tvg-id="Zee Bangla" tvg-name="ZEE BANGLA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH3tzHFyZDHnJWg0yKj2qgUByqNECthxm102rOQoKzQ0w.png" group-title="IND | Bangla",ZEE BANGLA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBhxdpOpjYc4hnN5339bx2I/ts
-#EXTINF:-1 xui-id="451" tvg-id="Zee Bangla HD" tvg-name="ZEE BANGLA HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH3tzHFyZDHnJWg0yKj2qgUByqNECthxm102rOQoKzQ0w.png" group-title="IND | Bangla",ZEE BANGLA HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFZb48a7pQeLqCUqqSVWwQs/ts
-#EXTINF:-1 xui-id="18982" tvg-id="Zee Bangla Cinema" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH3tzHFyZDHnJWg0yKj2qgUBD6T15-ZJ77EVCFhC6z-Zpk0MR8azMSTZ3_pM1MA1lE.png" group-title="IND | Bangla",ZEE BANGLA CINEMA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMu-GMjm017p8xJylQ3tf3U/ts
-#EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCU9bxftGajEzQ_z5ZBhvxM/ts
-#EXTINF:-1 xui-id="449" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gI51-g9Ledf2nUN-ki08WGA/ts
-#EXTINF:-1 xui-id="3058" tvg-id="Jalsha Movies" tvg-name="JALSHA MOVIES" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFhy6JK9EpfEJoPykiAWA-Y-qk6DyJMZHoycbZQnugb1DQbUPMIx1__yK3kNGNuJac.png" group-title="IND | Bangla",JALSHA MOVIES
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCr5n_hrV1TTWY7PFsmcgJ4/ts
-#EXTINF:-1 xui-id="450" tvg-id="Jalsha Movies HD" tvg-name="JALSHA MOVIES HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFhy6JK9EpfEJoPykiAWA-Y-qk6DyJMZHoycbZQnugb1DQbUPMIx1__yK3kNGNuJac.png" group-title="IND | Bangla",JALSHA MOVIES HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHYfy6NBtkBfBF6jNxRTug8/ts
-#EXTINF:-1 xui-id="45093" tvg-id="" tvg-name="SONY AATH" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JHXY0M5YJvig-_s3RbbQN0sB1lXFZP3Ia6Jmg4kfQ6YI.png" group-title="IND | Bangla",SONY AATH
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGfERluCfvhKVdBXcOxNWrU/ts
-#EXTINF:-1 xui-id="2881" tvg-id="Aakaash Aath" tvg-name="AAKASH AATH" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQmW5aAA-8mIeuB88P0SUdrjBBSFEHQ2ZXiddKtVfnJCQ.png" group-title="IND | Bangla",AAKASH AATH
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gK3D8Bb0Iu-BVyGTy3CCH_k/ts
-#EXTINF:-1 xui-id="460" tvg-id="Sangeet Bangla" tvg-name="SANGEET BANGLA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEh5r-Nm0vuLsuY_AhqaLmj06314FTkeALtC8h41eXRPA.png" group-title="IND | Bangla",SANGEET BANGLA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMzn0jAOIhi5-i3XJ5dymzw/ts
-#EXTINF:-1 xui-id="455" tvg-id="Sun Bangla" tvg-name="SUN BANGLA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFptC71YjyQkX-FMN_J5VEq5iMVthX-zaGAFxufIoaFmw.png" group-title="IND | Bangla",SUN BANGLA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJqi83-ZMM6PNOqPOBYAaEU/ts
-#EXTINF:-1 xui-id="6064" tvg-id="" tvg-name="SUN BANGLA CINEMA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFptC71YjyQkX-FMN_J5VEq5iMVthX-zaGAFxufIoaFmw.png" group-title="IND | Bangla",SUN BANGLA CINEMA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNE_MCrvvqJ-toZUtZiSz2E/ts
-#EXTINF:-1 xui-id="7433" tvg-id="Ruposhi Bangla" tvg-name="RUPOSHI BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoxy9j9zGi_SVsVx52hQULmbTcKoB8DPi6Gg&usqp=CAU" group-title="IND | Bangla",RUPOSHI BANGLA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gA5GMmFIN59FUWecdnKJMh4/ts
-#EXTINF:-1 xui-id="467" tvg-id="" tvg-name="AMAR DIGITAL" tvg-logo="https://i.postimg.cc/QMQRKb6c/amar-digital.png" group-title="IND | Bangla",AMAR DIGITAL
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHwTRbxnoftU_-STtDEcCcE/ts
-#EXTINF:-1 xui-id="673" tvg-id="" tvg-name="AMAR BANGLA" tvg-logo="https://i.postimg.cc/HnDcvTwq/amr-bangla.png" group-title="IND | Bangla",AMAR BANGLA
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHe0QreUKJZYKR7XUOQk8eg/ts
-#E
+#EXTINF:-1 tvg-logo="" group-title="", MAASRANGA TV HD
+
+#EXTINF:-1 tvg-logo="" group-title="", ANANDA TV HD
+
+#EXTINF:-1 tvg-logo="" group-title="", MOVIE BANGLA HD
+
+#EXTINF:-1 tvg-logo="" group-title="", STAR JALSHA HD
+
+#EXTINF:-1 tvg-logo="" group-title="", ZEE BANGLA HD
+
+#EXTINF:-1 tvg-logo="" group-title="", COLORS BANGLA HD
+
+#EXTINF:-1 tvg-logo="" group-title="", COLORS BANGLA CINEMA 
+
+#EXTINF:-1 tvg-logo="" group-title="", SONY AATH HD
+
+#EXTINF:-1 tvg-logo="" group-title="", JALSHA MOVIES HD
+
+#EXTINF:-1 tvg-logo="" group-title="", NICKELODEON HD
+
+#EXTINF:-1 tvg-logo="" group-title="", NICK SONIC
+
+#EXTINF:-1 tvg-logo="" group-title="", SONY YAY
+
+#EXTINF:-1 tvg-logo="" group-title="", ANIMAL PLANET HD
+
+
+
+
+
+
+
+
