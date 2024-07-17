@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nBmZTSt/20240717-234900.jpg" group-title="", BIJOY TV HD
+#EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQk8mSIMC6yb7v9vkME-GXWN9uDcUGInGUTrRm6Eit6BQ.png" group-title="", BIJOY TV HD
 http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rsm0FBn/20240717-224811.jpg" group-title="", MOHONA TV HD
 http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
