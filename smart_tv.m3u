@@ -7,12 +7,13 @@ http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
 http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEeo8W4WhcySoxdDyF2fYKnivK7swX9WePO8FyfiFM5Tw.png" group-title="", SOMOY TV HD
-http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85:F0
+http://xtv.ooo:8080/live/Arman007/Arman123/245925.ts
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGKrBmomeuhIcoNbjO-mgOCVeKL9JRMCWtIb7T5iuytuw.png" group-title="", MAASRANGA TV HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfF4sQ9fL8gCINPu_FkRJgctbwH1B7kHf00vCUmNiXmTAw.png" group-title="", ANANDA TV HD
+http://xtv.ooo:8080/live/Arman007/Arman123/245929.ts
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JEPEp0VKZMBTgVSxdbJGHgltmnOMxwiJsuqDwBoCmovx.png" group-title="", MOVIE BANGLA HD
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -22,6 +23,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH3tzHFyZDHnJWg0yKj2qgUByqNECthxm102rOQoKzQ0w.png" group-title="", ZEE BANGLA HD
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGBjE5zXRN98n6b1oAUVTPvv0S0MheX1bBHXCLXp_jtKw.png" group-title="", COLORS BANGLA HD
+http://xtv.ooo:8080/live/Arman007/Arman123/245895.ts
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGBjE5zXRN98n6b1oAUVTPv2HPV9s9Obkljn4mLEid4vbpKFZCBjk6C9CLwqONpktk.png" group-title="", COLORS BANGLA CINEMA 
 
