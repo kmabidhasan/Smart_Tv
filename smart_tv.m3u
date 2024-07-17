@@ -10,10 +10,12 @@ http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
 http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGKrBmomeuhIcoNbjO-mgOCVeKL9JRMCWtIb7T5iuytuw.png" group-title="", MAASRANGA TV HD
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfF4sQ9fL8gCINPu_FkRJgctbwH1B7kHf00vCUmNiXmTAw.png" group-title="", ANANDA TV HD
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JEPEp0VKZMBTgVSxdbJGHgltmnOMxwiJsuqDwBoCmovx.png" group-title="", MOVIE BANGLA HD
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="", STAR JALSHA HD
 
@@ -26,6 +28,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JHXY0M5YJvig-_s3RbbQN0sB1lXFZP3Ia6Jmg4kfQ6YI.png" group-title="", SONY AATH HD
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFhy6JK9EpfEJoPykiAWA-Y-qk6DyJMZHoycbZQnugb1DQbUPMIx1__yK3kNGNuJac.png" group-title="", JALSHA MOVIES HD
+http://xtv.ooo:8080/live/574453/774499/245900.ts
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JNZ0DCfK_F9ZRCKxDsbJNI4tQRh7u4XFH1h1L-86rO1H.png" group-title="", NICKELODEON HD
 
